@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### Through 10 years of Web development
+### Django/Python, React.js/Redux/Next.js, Blockchain Ninja
 #### ABOUT ME
 
 - 🚀 I respect and understand your needs, my goal is to give you 100% satisfaction.
@@ -11,19 +11,22 @@
 
 #### MY STACKS
 - Python, Django
-- PHP, Laravel, CodeIgniter
 - Reactjs, Nextjs, Gatsby, Redux & toolkit
+- PHP, Laravel, CodeIgniter
+- Blockchain, Smart Contract, Cryptocurrency, NFT
 - Vuejs, Nuxtjs, Vuex, Vuetify, Vuepress
 - Angularjs, Angular, Typescript
 - Nodejs, Expressjs, Sequelize, Mongoose
 - HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
-- MSSQL, MySQL, PostgreSQL, MongoDB
-- Graphql
-- WordPress, Drupal
-- C#, ASP.NET
+- MSSQL, MySQL, PostgreSQL
+- MongoDB
+- GraphQL
+- Drupal
+- C#, ASP.NET, .NET Core
 - Git, Docker, Heroku, AWS
 - Template, Theme and Script customization
 - Payment gateway, Google and so on APIs integration
+- AWS services such as AWS serverless Lambda, AWS EC2, AWS S3, etc
 - ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO
 
 <table><tr><td valign="top" width="100%">
